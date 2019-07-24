@@ -1,5 +1,5 @@
 {
-    "name": "binsoul/net-mqtt-client-react",
+    "name": "openwebx/net-mqtt-client-react",
     "description": "Asynchronous MQTT client built on React",
     "keywords": [
         "net",
@@ -13,6 +13,12 @@
             "name": "Sebastian Mößler",
             "email": "code@binsoul.de",
             "homepage": "https://github.com/binsoul",
+            "role": "Developer"
+        },
+        {
+            "name": "Jens Reinemuth",
+            "email": "jens@reinemuth.rocks",
+            "homepage": "https://reinemuth.rocks",
             "role": "Developer"
         }
     ],
